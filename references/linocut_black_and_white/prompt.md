@@ -1,1 +1,1 @@
-In the exact style of the reference images: [your description]
+In the exact style of the reference images: a lino-cut black and white engraving with bold lines and high contrast, depicting [specific image brief]
