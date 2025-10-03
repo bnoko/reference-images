@@ -1,0 +1,15 @@
+# Generated images (outputs, not references)
+generated-images/
+
+# Archived references (no longer actively used)
+references/archive/
+
+# macOS files
+.DS_Store
+
+# Backup files
+*.backup
+*_backup_*
+
+# Lock files
+.~lock.*
